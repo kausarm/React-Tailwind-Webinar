@@ -8,7 +8,6 @@
 ## Installation
 
 ```bash
-  git clone
-  cd dirproject
+  git clone https://github.com/kausarm/React-Tailwind-Webinar.git
   npm install
 ```
