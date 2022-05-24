@@ -4,7 +4,7 @@
 2. npm install
 3. npm start
 
-download assets in this link below:
+download assets:
    https://pixel.buildwithangga.com/details/fair-pricing-website
 
 ## Installation
